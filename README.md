@@ -1,5 +1,4 @@
-# aws_sns
-Simple wrapper to use with aws sns
+Amazon SNS is a great service but is not easy to get up and running. Here's how we did it.
 
 # Examples
 
